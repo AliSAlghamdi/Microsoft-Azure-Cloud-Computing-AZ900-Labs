@@ -33,10 +33,14 @@ html
 
 8. Open the public IP of the VM in a browser to verify the result.
 
-📸 Screenshots
-ex22.png – Shows the VM details in Azure Cloud Shell.
+### 📸 **Screenshots**
 
-ex23.png – Shows the hosted web page displaying the message “Welcome to Azure! I am Ali Alghamdi”.
+![VM Details](./ex22.png)
+*Shows the VM details in Azure Cloud Shell.*
+
+![Web Page Result](./ex23.png)
+*Shows the hosted web page displaying the message “Welcome to Azure! I am Ali Alghamdi”.*
+
 
 ✅ Result
 The NGINX web server was successfully configured on the Azure VM, and the custom webpage loaded correctly in the browser.
