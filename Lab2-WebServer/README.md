@@ -8,7 +8,7 @@ Learn how to configure a web server (NGINX) on an existing Azure Virtual Machine
 ### ⚙️ **Steps**
 
 **1.** Open **Azure Cloud Shell** and list the virtual machines using the command:
-```bash
+``bash
 az vm list -d -o table
 2. Connect to the running VM using SSH.
 
